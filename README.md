@@ -1,4 +1,4 @@
-# Grocery Store Delivery System — Database Design
+# Grocery Store Delivery System, Database Design
 
 CS-A1150 Databases, Aalto University, Spring 2024
 
